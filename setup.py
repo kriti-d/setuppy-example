@@ -1,6 +1,7 @@
 from setuptools import setup
 import re
 
+
 try:
     verstrline = open('webui/_version.py', "rt").read()
 except IOError:
