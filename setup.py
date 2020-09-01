@@ -15,8 +15,7 @@ else:
 
 setup(
     # Application name:
-    name="webapp",
-    
+    name="webapp",    
 
     # Version number (initial):
     version=verstr,
