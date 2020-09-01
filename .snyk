@@ -1,0 +1,5 @@
+ignore:
+  SNYK-PYTHON-FLASK-42185:
+    - flask@0.10.1:
+        reason: None given
+        expires: '2021-06-19T20:36:54.553Z'
