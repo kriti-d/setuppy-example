@@ -25,6 +25,7 @@ setup(
     author="Matthew Yates",
     author_email="matthew.yates@snyk.io",
 
+    
     # Packages
     packages=["webui"],
 
